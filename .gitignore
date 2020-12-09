@@ -1,18 +1,14 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# File workspace vscode
+csv.separate.code-workspace
 
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Folders
+10/2017
+10/2017-2018
+10/2017-2018-2019
+10/2017-2018-2019-2020
+10/2018
+10/2018-2019
+10/2018-2019-2020
+10/2019
+10/2019-2020
+10/2020
